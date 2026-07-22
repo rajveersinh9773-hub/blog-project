@@ -5,7 +5,7 @@ A modern and responsive blog website built using React.js, Tailwind CSS, Axios, 
 ## Features
 
 - Responsive blog website design
-- Featured blog section
+- Featured blog section 
 - Fetch blog data using Axios
 - JSON Server API integration
 - Category section
